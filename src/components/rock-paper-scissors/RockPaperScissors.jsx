@@ -125,7 +125,7 @@ function RockPaperScissors() {
       </div>
       {winner && (
         <div className="button-group reset">
-          <Button value="Reset" onClick={reset} />
+          <Button value="Restart Game?" onClick={reset} />
         </div>
       )}
     </div>

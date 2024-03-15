@@ -2,7 +2,7 @@
   background-color: #9fd3c7;
   border: none;
   color: #777;
-  padding: 1.25rem 2.3rem;
+  padding: 1rem 0rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -10,7 +10,11 @@
   font-size: 2rem;
   border-radius: 0.5rem;
   width: 15rem;
-  margin: 2rem 5rem;
+  margin: 1rem 0rem;
   box-shadow: 0 0.25rem 0.5rem 0 rgba(0, 0, 0, 0.2),
     0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.reset {
+  margin-top: 1.5rem;
 }
